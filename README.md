@@ -1,1 +1,3 @@
 # Sistema-Biblioteca-Py
+<p>En la última reunión con el encargado de la biblioteca pública Nacional este se aquejo sobre lo tedioso que se hace el trabajo de préstamos de libros y control de inventario en la biblioteca. El lead del equipo de desarrollo ha propuesto desarrollar un software que les permita simplificar este proceso.<p>
+<p>Para su demostración primero se desarrollara una app en consola en c++ utilizando estructura de datos como lista para manejar la entrada y salida de los libros. Del libro se desea tener guardado código del libro, título del libro, apellido del autor, nombre del autor, Área de Conocimiento y publicador, tramo asignado.<p>
